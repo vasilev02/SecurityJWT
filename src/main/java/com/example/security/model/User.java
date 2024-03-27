@@ -1,5 +1,6 @@
-package com.example.security;
+package com.example.security.model;
 
+import com.example.security.enumeration.Role;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Builder;
